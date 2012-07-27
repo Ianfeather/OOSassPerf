@@ -1,0 +1,36 @@
+.test1 {
+  width: 300px;
+  height: 300px;
+  margin-bottom: 20px;
+  margin-right: 20px;
+  background-color: #c3e7ed;
+  display: inline-block;
+}
+
+.test2 {
+  -webkit-border-radius: 20px;
+  -moz-border-radius: 20px;
+  -ms-border-radius: 20px;
+  -o-border-radius: 20px;
+  border-radius: 20px;
+  background-color: #022b36;
+}
+
+.test3 {
+  background-color: #da3435;
+  padding: 20px;
+  -webkit-box-sizing: border-box;
+  -moz-box-sizing: border-box;
+  -ms-box-sizing: border-box;
+  -o-box-sizing: border-box;
+  box-sizing: border-box;
+}
+
+.test4 {
+  background-color: #bfbfbf;
+  -webkit-box-shadow: 0px 1px 4px 0 rgba(0, 0, 0, 0.3);
+  -moz-box-shadow: 0px 1px 4px 0 rgba(0, 0, 0, 0.3);
+  -ms-box-shadow: 0px 1px 4px 0 rgba(0, 0, 0, 0.3);
+  -o-box-shadow: 0px 1px 4px 0 rgba(0, 0, 0, 0.3);
+  box-shadow: 0px 1px 4px 0 rgba(0, 0, 0, 0.3);
+}
